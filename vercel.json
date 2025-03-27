@@ -1,0 +1,5 @@
+{
+    "routes": [
+        { "src": "/(.*)", "dest": "vercel_app.py" }
+    ]
+}
